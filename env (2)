@@ -1,0 +1,12 @@
+# Database
+DATABASE_URL="postgresql://neondb_owner:npg_otviQmEU9Nc1@ep-old-bar-axju9yc4-pooler.c-4.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
+# Authentication (GitHub OAuth)
+AUTH_GITHUB_ID="your-github-client-id"
+AUTH_GITHUB_SECRET="your-github-client-secret"
+
+# NextAuth
+AUTH_SECRET="lblro7EML2TQdRHMoceffulg5wvl3CuPiNaz2E9DrEc="
+
+# Optional: AI-powered semantic search
+OPENAI_API_KEY=""
