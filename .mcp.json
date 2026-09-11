@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "prompts-chat": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@fkadev/prompts.chat-mcp"
+      ],
+      "env": {
+        "PROMPTS_QUERY": "users=preview12"
+      }
+    }
+  }
+}
